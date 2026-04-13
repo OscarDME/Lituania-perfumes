@@ -3,16 +3,16 @@ export const copy = {
   checkoutUrl: "https://www.oriopay.app/p/naturali-kosmetika",
 
   metadata: {
-    title: "Natūralios kosmetikos vadovas | PerfuMaria das Ervas",
+    title: "Natūralios kosmetikos vadovas",
     description:
-      "80 receptų 100 % natūraliai kosmetikai, kurią galite pasigaminti namuose. Išbandytos ir patikrintos formulės asmeniniam naudojimui arba verslo pradžiai.",
+      "80 receptų 100 % natūraliai kosmetikai, kurią galite pasigaminti namuose. Išbandytos ir saugios formulės odos priežiūrai ir vengiant toksiškų chemikalų.",
   },
 
   hero: {
     headlineLine1: "80 receptų",
     headlineHighlight: "NATŪRALIAI KOSMETIKAI",
     subheadline:
-      "Gaukite prieigą prie slaptų 100 % natūralios kosmetikos receptų ir kurkite ją patogiai savo namuose! Išbandytos ir patikrintos formulės asmeniniam naudojimui arba nuosavo verslo pradžiai.",
+      "Gaukite prieigą prie slaptų 100 % natūralios kosmetikos receptų ir kurkite ją patogiai savo namuose! Išbandytos ir saugios formulės, kad apsaugotumėte savo šeimą ir atsisakytumėte pramoninių gaminių, pilnų toksinų.",
     cta: "NORIU PRIEIGOS DABAR!",
     imageAlt: "Natūralios kosmetikos vadovas",
     timerLabels: {
@@ -24,7 +24,7 @@ export const copy = {
   },
 
   story: {
-    text: "Dabar pateiksiu jums praktišką vadovą – tiesiai prie esmės, be jokių bereikalingų komplikacijų, bet itin patikimą, kad galėtumėte kurti savo 100 % natūralią kosmetiką namuose. Neišleisdami krūvos pinigų, nepriklausydami nuo tūkstančių ingredientų ir su galimybe naudoti ją sau, dovanoti artimiesiems ar net parduoti, jei norite susikurti naują pajamų šaltinį!",
+    text: "Dabar pateiksiu jums praktišką vadovą – tiesiai prie esmės, be jokių bereikalingų komplikacijų, bet itin patikimą, kad galėtumėte kurti savo 100 % natūralią kosmetiką namuose. Neišleisdami krūvos pinigų, nepriklausydami nuo tūkstančių ingredientų – su džiaugsmu naudoti ją sau, dovanoti artimiesiems ir visiems kartu mėgautis 100 % saugia bei sveika priežiūra!",
     imageAlt: "Natūrali kosmetika",
   },
 
@@ -42,7 +42,7 @@ export const copy = {
       "Kietasis kūno sviestas",
       "Kūno aliejus",
       "Terapinis aliejus nuo dėmių ir strijų",
-      "Dvifazis kūno aliejus",
+      "Dvofazis kūno aliejus",
       "Natūralus įdegio losjonas",
       "Skystas kūno muilas",
       "Dušo želė",
@@ -115,37 +115,37 @@ export const copy = {
       "Fiksuojamasis antakių gelis",
       "Natūrali masažinė žvakė",
       "Maitinamasis nagų ir odelių serumas",
-      "Natūralus repelentas",
+      "Natūralus repelenton",
       "Atgaivinančios vonios druskos",
     ],
   },
 
   whatYouGet: {
-    headline: "KĄ RASITE ŠIAME PUIKIAME VADOVE?",
+    headline: "KĄ RASITE ŠIAME IŠSKIRTINIAME VADOVE?",
     cta: "GAUTI VADOVĄ DABAR!",
     imageAlt: "Ką rasite vadove",
     items: [
-      "Daugiau nei 80 išbandytų ir patikrintų receptų – įskaitant kreminį šveičiamąjį muilą, sausąjį veido aliejų, kūno purškiklį, apsaugą plaukams nuo karščio ir įvairias naujas formules.",
-      "Kremų, gelių, šampūnų ir muilų bazės – išmokite kurti saugias ir personalizuotas formules kiekvienam odos bei plaukų tipui.",
-      "Išsamus žingsnis po žingsnio vadovas pradedantiesiems ir pažengusiems – perpraskite viską nuo pagrindinių koncepcijų iki pačių sudėtingiausių technikų.",
-      "Žaliavų katalogas – atraskite įvairių natūralių ingredientų naudą, kad sukurtumėte itin veiksmingą kosmetiką.",
-      "Kosmetologijoje taikoma fitoterapija – kaip panaudoti gydomuosius augalus, siekiant sustiprinti kosmetikos poveikį.",
-      "Natūralaus formulavimo paslaptys – pH reguliavimas, konservavimas, žaliavų parinkimas ir efektyvūs deriniai.",
-      "Patarimai namų ir profesionaliai gamybai – įkurkite savo natūralios kosmetikos studiją ir tobulinkite technikas.",
-      "Tvarumas ir rūpinimasis aplinka – išmokite kurti biologiškai skaidžią ir ekologišką kosmetiką.",
+      "Daugiau nei 80 išbandytų ir patikrintų receptų – įskaitant kreminį šveičiamąjį muilą, sausąjį veido aliejų, kūno purškiklį, apsaugą plaukams nuo karščio ir daugybę naujų, inovatyvių formulių.",
+      "Kremų, gelių, šampūnų ir muilų bazės – išmokite kurti 100 % saugius ir personalizuotus gaminius kiekvienam odos bei plaukų tipui.",
+      "Išsamus žingsnis po žingsnio vadovas pradedantiesiems ir pažengusiems – perpraskite viską nuo pagrindinių koncepcijų iki sudėtingiausių kosmetikos gamybos technikų.",
+      "Žaliavų katalogas – atraskite įvairių natūralių ingredientų naudą, kad sukurtumėte aukštos kokybės ir gryną kosmetiką.",
+      "Kosmetologijoje taikoma fitoterapija – kaip panaudoti gydomuosius augalus, siekiant maksimaliai sustiprinti kosmetikos poveikį.",
+      "Natūralaus formulavimo paslaptys – pH reguliavimas, natūralus konservavimas, žaliavų parinkimas ir efektyviausios sinergijos.",
+      "Patarimai tobulai namų gamybai – paverskite savo virtuvę saugia vieta švarios kosmetikos kūrimui ir tobulinkite savo įgūdžius.",
+      "Tvarumas ir rūpinimasis aplinka – išmokite kurti visiškai biologiškai skaidžią ir planetai draugišką kosmetiką.",
     ],
   },
 
   testimonials: {
-    headline: "PAŽIŪRĖKITE, KĄ ŽMONĖS KALBA APIE NATŪRALIOS KOSMETIKOS VADOVĄ:",
-    cta: "NORIU PRIEIGOS DABAR!",
+    headline: "PAŽIŪRĖKITE, KĄ SAKO MOTERYS, KURIOS JAU NAUDOJASI ŠIUO VADOVU:",
+    cta: "PRISIJUNGTI PRIE JŲ!",
     cards: [
       {
         name: "Marija S.",
         initials: "MS",
         color: "#16a34a",
         stars: 5,
-        text: "Dievinu šį vadovą! Jau pasigaminau raminamąjį kūno kremą ir veido muilą, gavosi tiesiog nuostabiai. Daug geriau nei pramoniniai produktai, kuriuos naudojau anksčiau. Labai rekomenduoju!",
+        text: "Dievinu šį vadovą! Jau pasigaminau raminamąjį kūno kremą ir veido muilą – gavosi tiesiog nuostabiai. Daug geriau nei pramoniniai gaminiai, kuriuos naudojau anksčiau. Labai rekomenduoju visoms!",
         source: "WhatsApp",
       },
       {
@@ -153,7 +153,7 @@ export const copy = {
         initials: "EG",
         color: "#0f766e",
         stars: 5,
-        text: "Žmonės, koks nuostabus vadovas! Receptai labai detalūs ir lengvai suprantami. Jau pardaviau kelis produktus draugėms ir jos juos įsimylėjo. Vertingas kiekvienas centas!",
+        text: "Mielosios, koks nuostabus vadovas! Receptai labai detalūs ir lengvai suprantami. Jau pagaminau kelis produktus draugėms dovanų ir jos juos tiesiog įsimylėjo. Vertas kiekvieno cento!",
         source: "WhatsApp",
       },
       {
@@ -161,7 +161,7 @@ export const copy = {
         initials: "SR",
         color: "#7c3aed",
         stars: 5,
-        text: "Šiek tiek dvejojau prieš pirkdama, bet tikrai buvo verta! Žaliavų katalogas labai padėjo suprasti ingredientus. Jau išbandžiau 6 skirtingus receptus ir visi pavyko puikiai.",
+        text: "Šiek tiek dvejojau prieš pirkdama, bet tikrai buvo verta! Žaliavų katalogas labai padėjo suprasti ingredientus. Jau išbandžiau 6 skirtingus receptus ir visi pavyko nepriekaištingai.",
         source: "WhatsApp",
       },
       {
@@ -169,83 +169,83 @@ export const copy = {
         initials: "DM",
         color: "#b45309",
         stars: 5,
-        text: "Kokia neįtikėtina investicija! Naudodamasi vadovu išmokau pasigaminti kietąjį šampūną ir kondicionierių. Mano plaukai dabar daug sveikesni, be to, kas mėnesį sutaupau nemažai pinigų. Ačiū jums!",
+        text: "Kokia neįtikėtina investicija! Naudodamasi vadovu pagaliau išmokau pasigaminti kietąjį šampūną ir kondicionierių. Mano plaukai atgijo, yra daug sveikesni, o kas mėnesį sutaupau krūvą pinigų kosmetikai. Ačiū!",
         source: "WhatsApp",
       },
     ],
   },
 
   autonomyIntro: {
-    text1: "Su „Natūralios kosmetikos vadovu“ išmoksite kurti kosmetiką nuo pat pagrindų.",
-    text2: "Jame žingsnis po žingsnio parodoma, kaip išsirinkti natūralius ingredientus, pritaikyti formules skirtingiems odos bei plaukų tipams ir personalizuoti produktus pagal savo poreikius.",
-    text3: "Be to, įgausite pasitikėjimo ir savarankiškumo formuluojant, galėsite testuoti bei adaptuoti receptus, kad sukurtumėte unikalius produktus su savitu identitetu. Dėka detalaus natūralių žaliavų katalogo, pažinsite geriausius ingredientus ir išmoksite rasti tobulą derinį kiekvienam kosmetikos gaminiui.",
-    cta: "GAUTI VADOVĄ DABAR!",
-    imageAlt: "Nepriklausomybė natūralioje kosmetikoje",
+    text1: "Su „Natūralios kosmetikos vadovu“ išmoksite kurti savo gaminius visiškai nuo nulio.",
+    text2: "Jame žingsnis po žingsnio parodoma, kaip sąmoningai išsirinkti natūralius ingredientus, pritaikyti formules skirtingiems odos tipams ar plaukų poringumui ir personalizuoti produktus taip, kad jie idealiai atitiktų jūsų poreikius.",
+    text3: "Įgausite pasitikėjimo ir visišką savarankiškumą formuluojant. Galėsite testuoti bei tobulinti receptus, kurdami unikalią kosmetiką su savitu charakteriu. Dėka itin detalaus natūralių žaliavų katalogo, pažinsite geriausius ingredientus ir atrasite idelius derinius kiekvienam gaminio tipui.",
+    cta: "GAUTI VADOVĄ!",
+    imageAlt: "Savarankiškumas gaminant natūralią kosmetiką",
   },
 
   benefitsList: {
-    headline: "Nepriklausomybė ir kūrybiškumas natūralios kosmetikos srityje!",
+    headline: "Nepriklausomybė ir kūrybiškumas natūralios priežiūros pasaulyje!",
     cta: "NORIU PRIEIGOS DABAR!",
     items: [
       {
         bold: "Išmokite kurti",
-        rest: " kremus, serumus, šampūnus, muilus ir daug daugiau.",
+        rest: " kremus, serumus, šampūnus, muilus ir daug kitų priežiūros priemonių.",
       },
       {
-        bold: "Atraskite, kaip išsirinkti",
-        rest: " tinkamus ingredientus kiekvienam poreikiui.",
+        bold: "Atraskite, kaip neklystant išsirinkti",
+        rest: " tinkamus ingredientus kiekvienam specifiniam odos ir plaukų poreikiui.",
       },
       {
-        bold: "Tapkite nepriklausomi nuo pramoninės kosmetikos ir",
-        rest: " kurkite personalizuotas formules.",
+        bold: "Išsilaisvinkite nuo pramoninės chemijos ir",
+        rest: " kurkite 100 % personalizuotas, natūralias formules.",
       },
       {
         bold: "Pasinerkite į kosmetologijoje taikomą fitoterapiją,",
-        rest: " išnaudodami gydomųjų augalų terapines savybes.",
+        rest: " semdamiesi gydomųjų augalų ir ekstraktų savybių.",
       },
       {
-        bold: "Sumažinkite išlaidas,",
-        rest: " gamindami savo kosmetiką ir nedarydami jokių kompromisų kokybei.",
+        bold: "Ženkliai sumažinkite išlaidas,",
+        rest: " gamindami savo kosmetiką ir nedarydami jokių kompromisų jos kokybei.",
       },
       {
-        bold: "Gaukite prieigą prie profesionalių formulių",
-        rest: " ir išmokite saugiai kurti geriausius produktus.",
+        bold: "Gaukite prieigą prie profesionalių receptų",
+        rest: " ir išmokite saugiai kurti aukščiausios klasės produktus.",
       },
       {
-        bold: "Išsiskirkite natūralaus grožio rinkoje,",
-        rest: " kuri vis labiau auga ir vertina tvarius gaminius.",
+        bold: "Suteikite savo odai geriausią priežiūrą,",
+        rest: " tiksliai žinodami, kokius grynus ingredientus naudojate.",
       },
       {
-        bold: "Išmokite įkurti namų kosmetikos studiją",
-        rest: " su praktiškais patarimais, kaip organizuoti darbo erdvę.",
+        bold: "Apsaugokite savo šeimos sveikatą",
+        rest: " naudodami gaminius be žalingų konservantų ir dirbtinių dažiklių.",
       },
     ],
   },
 
   economy: {
-    headline: "Sutaupymas ir verslo galimybės natūralių produktų rinkoje!",
-    text1: "Nuosavos natūralios kosmetikos kūrimas – tai puiki galimybė tiek sutaupyti, tiek pradėti verslą. Su „Natūralios kosmetikos vadovu“ išmoksite gaminti aukštos kokybės kosmetiką už mažą kainą, išvengdami didelių išlaidų įprastiems produktams ir investuodami į prieinamus bei efektyvius natūralius ingredientus.",
-    text2: "Jei norite pradėti savo verslą, tai neįkainojamas gidas, padėsiantis sukurti tvarų ir pelningą projektą. Naudodamiesi išskirtinėmis formulėmis ir praktiniais patarimais apie konservavimą, pakavimą bei rinkodarą, galite sukurti savo natūralios kosmetikos prekių ženklą, siūlydami rankų darbo produktus, atitinkančius sąmoningo ir ekologiško vartojimo tendencijas.",
-    cta: "GAUTI VADOVĄ DABAR!",
-    imageAlt: "Verslas natūralių produktų rinkoje",
+    headline: "Sutaupymas ir sveika priežiūra be jokio gramo chemijos!",
+    text1: "Nuosavos natūralios kosmetikos kūrimas – tai geriausias būdas apsaugoti odą ir kartu sutaupyti milžiniškas sumas pinigų. Su „Natūralios kosmetikos vadovu“ išmoksite gaminti aukščiausios kokybės gaminius už nedidelę dalį to kainos, kurią mokėtumėte parduotuvėse. Taip išvengsite permokėjimo už komercinę, chemijos pilną kosmetiką, investuodami į prieinamas, švarias ir itin veiksmingas natūralias žaliavas.",
+    text2: "Tai jūsų neįkainojamas vadovas pereinant prie sveikesnio gyvenimo būdo. Išskirtinių receptų dėka susigrąžinsite visišką kontrolę to, ką tepate ant savo kūno. Galite mėgautis rankų darbo gaminiais, kurie yra 100 % saugūs, ekologiški ir švelnūs tiek jūsų odai, tiek aplinkai.",
+    cta: "PRADEDU GAMINTI!",
+    imageAlt: "Sveika priežiūra",
   },
 
   finalCta: {
     urgencyLabel: "PASKUTINĖ DIENA UŽSISAKYTI",
-    urgencySub: "už akcinę kainą!",
+    urgencySub: "už akcinę reklaminę kainą!",
     urgencyText:
-      "Tai jūsų paskutinis šansas pasinaudoti mūsų specialiu pasiūlymu ir tapti mūsų šeimos, turinčios tūkstančius patenkintų studenčių, dalimi!",
+      "Tai jūsų absoliučiai paskutinis šansas pasinaudoti mūsų išskirtiniu pasiūlymu ir prisijungti prie tūkstančių susižavėjusių studenčių!",
     offerPrice: "8.90 €",
     button: "GAUTI PRIEIGĄ DABAR!",
     productTitle: "Natūralios kosmetikos vadovas!",
     imageAlt: "Natūralios kosmetikos vadovas",
     bundleList: [
       "80 natūralios kosmetikos receptų",
-      "Išsami mokomoji medžiaga",
-      "Edukacinis žaliavų katalogas",
-      "Studenčių bendruomenė",
-      "Specializuotas palaikymas klausimams",
-      "Tiekėjų sąrašas",
+      "Išsamus vadovas žingsnis po žingsnio",
+      "Mokomasis žaliavų leksikonas",
+      "Prieiga prie uždaros bendruomenės",
+      "Ekspertų palaikymas visiems klausimams",
+      "Patikrintas ir patikimas tiekėjų sąrašas",
     ],
     timerLabels: {
       days: "Dienos",
@@ -256,8 +256,6 @@ export const copy = {
   },
 
   footer: {
-    tagline: "Atraskite, kaip sukurti tobulą natūralią kosmetiką!",
-    linkLabel: "Pilnas natūralios kosmetikos kursas",
-    linkHref: "https://www.perfumariadaservas.shop",
+    tagline: "Atraskite su mumis, kaip sukurti tobulą natūralią kosmetiką!",
   },
 };
